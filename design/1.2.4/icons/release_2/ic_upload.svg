@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="77px" viewBox="0 0 77 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>inactive upload icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Release-2---P" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MAP-HOME-PAGE" transform="translate(-6.000000, -151.000000)">
+            <g id="inactive-upload-icon" transform="translate(6.000000, 151.000000)">
+                <circle id="Oval-4" fill="#AED581" fill-rule="nonzero" cx="38.5" cy="38.5" r="38.5"></circle>
+                <path d="M55.5375,34.59 C54.0075,26.8275 47.19,21 39,21 C32.4975,21 26.85,24.69 24.0375,30.09 C17.265,30.81 12,36.5475 12,43.5 C12,50.9475 18.0525,57 25.5,57 L54.75,57 C60.96,57 66,51.96 66,45.75 C66,39.81 61.3875,34.995 55.5375,34.59 L55.5375,34.59 Z M43.5,41.25 L43.5,50.25 L34.5,50.25 L34.5,41.25 L27.75,41.25 L39,30 L50.25,41.25 L43.5,41.25 L43.5,41.25 Z" id="Shape" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>
