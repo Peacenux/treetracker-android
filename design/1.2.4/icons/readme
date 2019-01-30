@@ -6,10 +6,10 @@ Release 1
 -mail
 -person
 -people
--arrow back
+-back arrow
 
 Release 2
--camera
+-camera, green
 -cursor, green
 -cursor, red
 -exit
@@ -19,5 +19,12 @@ Release 2
 -upload cloud
 
 Release 3
+-back arrow
+-camera, green, white
+-exit
+-map
+-selfie frame
+-settings ( 3 dots )
+-tree gallery
 
 Release 4
