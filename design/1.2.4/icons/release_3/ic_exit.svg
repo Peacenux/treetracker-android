@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_exit</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Release-3---P" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TREE-GALLERY" transform="translate(-304.000000, -75.000000)">
+            <g id="ic_exit" transform="translate(304.000000, 75.000000)">
+                <rect id="Rectangle-3" fill="#FAFAFA" fill-rule="nonzero" x="0" y="4" width="40" height="32"></rect>
+                <path d="M15.7555556,27.9777778 L18.8888889,31.1111111 L30,20 L18.8888889,8.88888889 L15.7555556,12.0222222 L21.4888889,17.7777778 L0,17.7777778 L0,22.2222222 L21.4888889,22.2222222 L15.7555556,27.9777778 L15.7555556,27.9777778 Z M35.5555556,0 L4.44444444,0 C1.97777778,0 0,2 0,4.44444444 L0,13.3333333 L4.44444444,13.3333333 L4.44444444,4.44444444 L35.5555556,4.44444444 L35.5555556,35.5555556 L4.44444444,35.5555556 L4.44444444,26.6666667 L0,26.6666667 L0,35.5555556 C0,38 1.97777778,40 4.44444444,40 L35.5555556,40 C38,40 40,38 40,35.5555556 L40,4.44444444 C40,2 38,0 35.5555556,0 L35.5555556,0 Z" id="Fill-154" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>
