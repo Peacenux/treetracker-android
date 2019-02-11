@@ -1,7 +1,14 @@
-Each html file is a Spec Export, then once you save the all files into your local computer then you may see the detailed specs of the screen.
+Each html file is a Spec Export of all the screens for this release. Once you have saved the all files into your local computer, then you must open the file into your browser, then you may see the detailed specs of the screen.
 
 
 View Prototype: https://projects.invisionapp.com/share/QVPWJS7AHSW#/339396478_LOGIN
 
 
 Background: User has entered their phone number and it was not recognized as an existing user, causing the 'Sign Up' button to appear. 
+
+
+SCREENS
+-login
+-sign up
+-accept terms
+-location permission
