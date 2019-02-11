@@ -5,6 +5,7 @@ View Prototype: https://invis.io/QVPWJS7AHSW#/339396478_LOGIN
 Release 1
 -login
 -sign up
+-terms
 
 Release 2
 -map page: sync button, bottom w/ camera button, GPS, selfie icon, log out icon, 3 dot icons
@@ -13,7 +14,7 @@ Release 3
 -take a selfie page
 -tree gallery page
 -about page
--privacy policy pages : after sign up, in settings
+-terms/privacy/cookies pages: after sign up, in settings
 
 Release 4
 -sync & upload notifications
