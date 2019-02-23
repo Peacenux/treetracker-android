@@ -14,11 +14,11 @@ Release 2
 -map page: sync button, bottom w/ camera button, GPS, selfie icon, log out icon, 3 dot icons
 
 Release 3
+-settings page
+-edit profile, save edited profile
+-about, term, privacy policy, cookies: after sign up, in settings 
 -take a selfie page
 -tree gallery page
--about page
--settings page
--terms/privacy/cookies pages: after sign up, in settings
 
 Release 4
 -sync & upload notifications
