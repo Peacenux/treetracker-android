@@ -2,39 +2,22 @@ Version 1.2.4 Jan 2019
 
 SVG files
 
-Release 1
+
 -greenstand logo
+-person
 -phone
 -mail
--person
 -people
 -back arrow
-
-Release 2
--camera, green
--cursor, green
--cursor, red
--exit
--sync cloud
--map
--tree gallery 
--upload cloud
-
-Release 3
--back arrow
--camera, green, white
--exit
--map
 -selfie frame
--settings ( 3 dots )
--tree gallery
 
-Release 4
--back arrow
--camera, white
--long white arrow
 -short white arrow
--nature outside
--person walking to trees
 -person walking
 -wooden house
+
+-hamburger menu
+-camera, green, white
+-GPS cursor
+-exit 
+-sync button
+-upload button
