@@ -2,26 +2,21 @@ Version 1.2.4
 
 View Prototype: https://invis.io/75QPCELGTEQ
 
-Release 1
+Login & Sign up: New user
 -login
 -sign up
 -accept terms
 -location permission
 -storage permission
 -camera permission
+-selfie
 
-Release 2
--map page: sync button, bottom w/ camera button, GPS, selfie icon, log out icon, 3 dot icons
+Login & Sign up: Existing user
+-login
+-sign up
+-accept terms
+-selfie
 
-Release 3
--settings page
--edit profile, save edited profile
--about, term, privacy policy, cookies: after sign up, in settings 
--take a selfie page
--tree gallery page
-
-Release 4
--sync & upload notifications
--save tree page
--location access screen
--walk outside screen
+Map/Home page
+-sync button, bottom w/ camera button, GPS cursor, log out icon, sync & upload notifications
+-hamburger menu: about, terms (if necessary), privacy policy (if necessary), cookies pages (if necessary)
