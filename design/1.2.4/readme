@@ -1,17 +1,1 @@
-View Prototype: https://invis.io/75QPCELGTEQ
 
-Login & Sign up: New user
-*splash screen*
--login
--accept terms
--sign up aka create account
--permissions: storage, location, camera
--take a selfie
-
-Login & Sign up: Existing user
--login
--take a selfie
-
-Map/Home page
--sync button, camera button, GPS cursor, log out icon, notifications
--hamburger menu: about, terms, privacy policy, cookies pages (if necessary)
